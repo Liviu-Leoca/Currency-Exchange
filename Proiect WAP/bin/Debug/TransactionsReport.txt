@@ -1,0 +1,12 @@
+Source Currency: USD
+Target Currency: EUR
+Amount: 100
+Exchange Rate: 0.9
+Date: 5/24/2023 9:18:04 PM
+
+Source Currency: USD
+Target Currency: EUR
+Amount: 200
+Exchange Rate: 0.9
+Date: 5/24/2023 9:18:09 PM
+

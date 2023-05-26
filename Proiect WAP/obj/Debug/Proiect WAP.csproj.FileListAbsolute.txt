@@ -1,0 +1,17 @@
+C:\Users\PC\Desktop\Proiect WAP\obj\Debug\Proiect WAP.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Proiect WAP\obj\Debug\Proiect WAP.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC\Desktop\Proiect WAP\obj\Debug\Proiect_WAP.CurrencyForm.resources
+C:\Users\PC\Desktop\Proiect WAP\obj\Debug\Proiect_WAP.Properties.Resources.resources
+C:\Users\PC\Desktop\Proiect WAP\obj\Debug\Proiect WAP.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\Proiect WAP\obj\Debug\Proiect WAP.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Proiect WAP\obj\Debug\Proiect_WAP.ExchangeRateForm.resources
+C:\Users\PC\Desktop\Proiect WAP\obj\Debug\Proiect_WAP.MainForm.resources
+C:\Users\PC\Desktop\Proiect WAP\bin\Debug\Proiect WAP.exe.config
+C:\Users\PC\Desktop\Proiect WAP\bin\Debug\Proiect WAP.exe
+C:\Users\PC\Desktop\Proiect WAP\bin\Debug\Proiect WAP.pdb
+C:\Users\PC\Desktop\Proiect WAP\obj\Debug\Proiect WAP.exe
+C:\Users\PC\Desktop\Proiect WAP\obj\Debug\Proiect WAP.pdb
+C:\Users\PC\Desktop\Proiect WAP\obj\Debug\Proiect_WAP.CurrenciesList.resources
+C:\Users\PC\Desktop\Proiect WAP\obj\Debug\Proiect_WAP.ExchangeRatesList.resources
+C:\Users\PC\Desktop\Proiect WAP\obj\Debug\Proiect_WAP.TransactionsList.resources
+C:\Users\PC\Desktop\Proiect WAP\obj\Debug\Proiect_WAP.TransactionForm.resources
